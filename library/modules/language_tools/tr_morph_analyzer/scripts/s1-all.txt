@@ -1,0 +1,254 @@
+-12.95: Seher Seher<N:prop>
+-13.63: Seher seher<N>
+-15.80: Seher Seher<N:prop><0><V>
+-15.80: Seher Seher<N:prop><0><V><cpl:pres>
+-15.80: Seher Seher<N:prop><0><V><cpl:pres><3s>
+-15.80: Seher seher<N><0><V>
+-15.80: Seher seher<N><0><V><cpl:pres>
+-15.80: Seher seher<N><0><V><cpl:pres><3s>
+
+-11.58: vakti vakit<N><p3s>
+-12.68: vakti vakit<N><acc>
+-15.80: vakti vakit<N><p3s><0><V>
+-15.80: vakti vakit<N><p3s><0><V><cpl:pres>
+-15.80: vakti vakit<N><p3s><0><V><cpl:pres><3s>
+-15.80: vakti vakit<N><acc><0><V>
+-15.80: vakti vakit<N><acc><0><V><cpl:pres>
+-15.80: vakti vakit<N><acc><0><V><cpl:pres><3s>
+
+-13.98: habersizce haber<N><siz><Adj><ca><Adj>
+-14.17: habersizce haber<N><siz><Adj><ca><Adv>
+-15.80: habersizce haber<N><p3s><siz><Adv><0><N><ca><Adv>
+-15.80: habersizce haber<N><p3s><siz><Adv><0><N><ca><Adv><0><N>
+-15.80: habersizce haber<N><p3s><siz><Adv><0><N><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><p3s><siz><Adv><0><N><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><p3s><siz><Adv><0><N><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><p3s><siz><Adv><ca><Adv>
+-15.80: habersizce haber<N><p3s><siz><Adv><ca><Adv><0><N>
+-15.80: habersizce haber<N><p3s><siz><Adv><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><p3s><siz><Adv><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><p3s><siz><Adv><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><p3s><siz><Adj><0><N><ca><Adv>
+-15.80: habersizce haber<N><p3s><siz><Adj><0><N><ca><Adv><0><N>
+-15.80: habersizce haber<N><p3s><siz><Adj><0><N><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><p3s><siz><Adj><0><N><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><p3s><siz><Adj><0><N><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adv>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adv><0><N>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><N>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><N><0><V>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><V>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><V><cpl:pres>
+-15.80: habersizce haber<N><p3s><siz><Adj><ca><Adj><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><siz><Adv><0><N><ca><Adv>
+-15.80: habersizce haber<N><siz><Adv><0><N><ca><Adv><0><N>
+-15.80: habersizce haber<N><siz><Adv><0><N><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><siz><Adv><0><N><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><siz><Adv><0><N><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><siz><Adv><ca><Adv>
+-15.80: habersizce haber<N><siz><Adv><ca><Adv><0><N>
+-15.80: habersizce haber<N><siz><Adv><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><siz><Adv><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><siz><Adv><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><siz><Adj><0><N><ca><Adv>
+-15.80: habersizce haber<N><siz><Adj><0><N><ca><Adv><0><N>
+-15.80: habersizce haber<N><siz><Adj><0><N><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><siz><Adj><0><N><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><siz><Adj><0><N><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><siz><Adj><ca><Adv><0><N>
+-15.80: habersizce haber<N><siz><Adj><ca><Adv><0><N><0><V>
+-15.80: habersizce haber<N><siz><Adj><ca><Adv><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><siz><Adj><ca><Adv><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><N>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><N><0><V>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><N><0><V><cpl:pres>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><N><0><V><cpl:pres><3s>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><V>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><V><cpl:pres>
+-15.80: habersizce haber<N><siz><Adj><ca><Adj><0><V><cpl:pres><3s>
+
+-9.09: girdi gir<V><past><3s>
+-11.32: girdi girdi<N>
+-15.80: girdi girdi<N><0><V>
+-15.80: girdi girdi<N><0><V><cpl:pres>
+-15.80: girdi girdi<N><0><V><cpl:pres><3s>
+
+-11.91: gara gar<N><dat>
+-15.80: gara gar<N><dat><0><V>
+-15.80: gara gar<N><dat><0><V><cpl:pres>
+-15.80: gara gar<N><dat><0><V><cpl:pres><3s>
+
+-13.61: ekspres ekspres<Adj>
+-13.63: ekspres ekspres<N>
+-15.80: ekspres ekspres<N><0><V>
+-15.80: ekspres ekspres<N><0><V><cpl:pres>
+-15.80: ekspres ekspres<N><0><V><cpl:pres><3s>
+-15.80: ekspres ekspres<Adj><0><N>
+-15.80: ekspres ekspres<Adj><0><N><0><V>
+-15.80: ekspres ekspres<Adj><0><N><0><V><cpl:pres>
+-15.80: ekspres ekspres<Adj><0><N><0><V><cpl:pres><3s>
+-15.80: ekspres ekspres<Adj><0><V>
+-15.80: ekspres ekspres<Adj><0><V><cpl:pres>
+-15.80: ekspres ekspres<Adj><0><V><cpl:pres><3s>
+
+-9.14: kar kar<N>
+-13.63: kar kâr<N>
+-13.79: kar kar<V><imp><2s>
+-15.80: kar kar<N><0><V>
+-15.80: kar kar<N><0><V><cpl:pres>
+-15.80: kar kar<N><0><V><cpl:pres><3s>
+-15.80: kar kar<V>
+-15.80: kar kâr<N><0><V>
+-15.80: kar kâr<N><0><V><cpl:pres>
+-15.80: kar kâr<N><0><V><cpl:pres><3s>
+
+-11.56: içindeydi iç<N><p3s><loc><0><V><cpl:past><3s>
+-13.87: içindeydi iç<Adj><0><N><p2s><loc><0><V><cpl:past><3s>
+-13.87: içindeydi içi<Adj><0><N><p2s><loc><0><V><cpl:past><3s>
+-13.98: içindeydi iç<Adj><0><N><p3s><loc><0><V><cpl:past><3s>
+-14.14: içindeydi iç<N><p2s><loc><0><V><cpl:past><3s>
+-15.80: içindeydi iç<N><p3s><loc><Postp:adv:nomC><0><N><0><V><cpl:past><3s>
+-15.80: içindeydi iç<N><p3s><loc><Postp:adv:nomC><0><V><cpl:past><3s>
+-15.80: içindeydi iç<Adj><p3s><Prn><loc><0><V><cpl:past><3s>
+-15.80: içindeydi iç<Adj><p2s><Prn><loc><0><V><cpl:past><3s>
+-15.80: içindeydi iç<N><p2s><loc><Postp:adv:nomC><0><N><0><V><cpl:past><3s>
+-15.80: içindeydi iç<N><p2s><loc><Postp:adv:nomC><0><V><cpl:past><3s>
+-15.80: içindeydi içi<Adj><p2s><Prn><loc><0><V><cpl:past><3s>
+-15.80: içindeydi için<Postp:adv:nomC><0><N><loc><0><V><cpl:past><3s>
+
+-7.02: ben ben<Prn:pers:1s>
+-13.63: ben ben<N>
+-15.80: ben ben<N><0><V>
+-15.80: ben ben<N><0><V><cpl:pres>
+-15.80: ben ben<N><0><V><cpl:pres><3s>
+-15.80: ben ben<Prn:pers:1s><0><V>
+-15.80: ben ben<Prn:pers:1s><0><V><cpl:pres>
+-15.80: ben ben<Prn:pers:1s><0><V><cpl:pres><3s>
+
+-14.09: paltomun palto<N><p1s><gen>
+-15.80: paltomun palto<N><p1s><gen><0><V>
+-15.80: paltomun palto<N><p1s><gen><0><V><cpl:pres>
+-15.80: paltomun palto<N><p1s><gen><0><V><cpl:pres><3s>
+
+-12.38: yakasını yaka<N><p3s><acc>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><p3s><acc>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><p3s><acc><0><V>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><p3s><acc><0><V><cpl:pres>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><p3s><acc><0><V><cpl:pres><3s>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><p2s><acc>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><p2s><acc><0><V>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><p2s><acc><0><V><cpl:pres>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><p2s><acc><0><V><cpl:pres><3s>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><acc>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><acc><0><V>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><acc><0><V><cpl:pres>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><0><N><acc><0><V><cpl:pres><3s>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><p2s><Prn><acc>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><p2s><Prn><acc><0><V>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><p2s><Prn><acc><0><V><cpl:pres>
+-15.80: yakasını yak<V><cv:ye><Adv><0><N><si><Adj><p2s><Prn><acc><0><V><cpl:pres><3s>
+-15.80: yakasını yak<V><vn:esi><N><p2s><acc>
+-15.80: yakasını yak<V><vn:esi><N><p2s><acc><0><V>
+-15.80: yakasını yak<V><vn:esi><N><p2s><acc><0><V><cpl:pres>
+-15.80: yakasını yak<V><vn:esi><N><p2s><acc><0><V><cpl:pres><3s>
+-15.80: yakasını yaka<N><p3s><acc><0><V>
+-15.80: yakasını yaka<N><p3s><acc><0><V><cpl:pres>Seher vakti habersizce girdi gara ekspres
+kar içindeydi
+ben paltomun yakasını kaldırmış perondaydım
+peronda benden başka da kimseler yoktu 
+
+-15.80: yakasını yaka<N><p3s><acc><0><V><cpl:pres><3s>
+
+-12.35: kaldırmış kaldır<V><evid><3s>
+-15.80: kaldırmış kal<V><caus><evid>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><N>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><N><0><V>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><N><0><V><cpl:pres>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><N><0><V><cpl:pres><3s>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><V>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><V><cpl:pres>
+-15.80: kaldırmış kal<V><caus><evid><0><Adj><0><V><cpl:pres><3s>
+-15.80: kaldırmış kal<V><caus><evid><3s>
+-15.80: kaldırmış kaldır<V><evid>
+-15.80: kaldırmış kaldır<V><evid><0><Adj>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><N>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><N><0><V>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><N><0><V><cpl:pres>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><N><0><V><cpl:pres><3s>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><V>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><V><cpl:pres>
+-15.80: kaldırmış kaldır<V><evid><0><Adj><0><V><cpl:pres><3s>
+
+-14.14: perondaydım peron<N><loc><0><V><cpl:past><1s>
+
+-13.67: peronda peron<N><loc>
+-15.80: peronda peron<N><loc><0><V>
+-15.80: peronda peron<N><loc><0><V><cpl:pres>
+-15.80: peronda peron<N><loc><0><V><cpl:pres><3s>
+
+-11.00: benden bende<N><p2s>
+-13.29: benden ben<Prn:pers:1s><abl>
+-13.80: benden ben<N><abl>
+-15.80: benden ben<N><abl><0><V>
+-15.80: benden ben<N><abl><0><V><cpl:pres>
+-15.80: benden ben<N><abl><0><V><cpl:pres><3s>
+-15.80: benden ben<Prn:pers:1s><abl><0><V>
+-15.80: benden ben<Prn:pers:1s><abl><0><V><cpl:pres>
+-15.80: benden ben<Prn:pers:1s><abl><0><V><cpl:pres><3s>
+-15.80: benden bende<N><p2s><0><V>
+-15.80: benden bende<N><p2s><0><V><cpl:pres>
+-15.80: benden bende<N><p2s><0><V><cpl:pres><3s>
+
+-7.34: başka başka<Adj>
+-9.03: başka başka<Postp:adv:ablC>
+-13.58: başka başka<Det:indef>
+-15.80: başka başka<Adj><0><N>
+-15.80: başka başka<Adj><0><N><0><V>
+-15.80: başka başka<Adj><0><N><0><V><cpl:pres>
+-15.80: başka başka<Adj><0><N><0><V><cpl:pres><3s>
+-15.80: başka başka<Adj><0><V>
+-15.80: başka başka<Adj><0><V><cpl:pres>
+-15.80: başka başka<Adj><0><V><cpl:pres><3s>
+-15.80: başka başka<Postp:adv:ablC><0><N>
+-15.80: başka başka<Postp:adv:ablC><0><N><0><V>
+-15.80: başka başka<Postp:adv:ablC><0><N><0><V><cpl:pres>
+-15.80: başka başka<Postp:adv:ablC><0><N><0><V><cpl:pres><3s>
+
+-4.95: da da<Cnj:adv>
+-13.58: da da<Cnj:coo>
+-13.58: da da<Cnj:sub>
+-13.59: da da<Adv>
+-15.80: da da<Adv><0><N>
+-15.80: da da<Adv><0><N><0><V>
+-15.80: da da<Adv><0><N><0><V><cpl:pres>
+-15.80: da da<Adv><0><N><0><V><cpl:pres><3s>
+-15.80: da da<Cnj:coo:partial>
+
+-11.01: kimseler kimse<Prn><pl>
+-15.80: kimseler kim<Prn:qst:pers><0><V><cpl:cond><3p>
+-15.80: kimseler kimse<Prn><0><V><cpl:pres><3p>
+-15.80: kimseler kimse<Prn><pl><0><V>
+-15.80: kimseler kimse<Prn><pl><0><V><cpl:pres>
+-15.80: kimseler kimse<Prn><pl><0><V><cpl:pres><3s>
+-15.80: kimseler kimse<Prn><la><V><aor>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><N>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><N><0><V>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><N><0><V><cpl:pres>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><N><0><V><cpl:pres><3s>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><V>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><V><cpl:pres>
+-15.80: kimseler kimse<Prn><la><V><aor><0><Adj><0><V><cpl:pres><3s>
+-15.80: kimseler kimse<Prn><la><V><aor><3s>
+
+-9.12: yoktu yok<Exist:neg><0><V><cpl:past><3s>
+-14.00: yoktu yok<Adj><0><V><cpl:past><3s>
+-14.09: yoktu yok<Adj><0><N><0><V><cpl:past><3s>
+

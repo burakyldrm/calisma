@@ -1,0 +1,1012 @@
+abdest#n
+aç#v
+açıkla#v
+açıklığa kavuştur#v
+açıl#v
+adlandır#v
+affet#v
+afiyet#n
+afiyette ol#v
+ağaçkakan#n
+ağır başlılık#n
+ağırlık#n
+aile yadigarı#n
+akademisyen#n
+akademisyenlik#n
+akıl ver#v
+aklanma kararı#n
+aklı başında olma#n
+aklında tut#v
+akrobasi#n
+akrobatlık#n
+aktif#a
+aktivite#n
+al#v
+alakarga#n
+alçak gönüllü#a
+alevi#n
+alış#v
+alıştırma#n
+alim#n
+alkışla#v
+alkolik#n
+amaç#n
+amaçla#v
+amir#n
+amiral gemisi#n
+ana#a
+anlamsız#a
+anlaş#v
+anlaşmaya var#v
+anlayış#n
+ant iç#v
+antreman#n
+aptalca#a
+aptes#n
+arabulucu#n
+arındır#v
+arıt#v
+arkadaş ol#v
+arkasında ol#v
+armağan et#v
+artırma#n
+artist#n
+artma#n
+arttırma#n
+arzu#n
+aseptik#a
+aşai rabbani ayini#n
+aşk ilişkisi#n
+atalet#n
+ateşkes#n
+avukatlığını yap#v
+avukatlık#n
+ayarla#v
+aydınlan#v
+aydınlat#v
+ayıkla#v
+ayıl#v
+ayılt#v
+ayır#v
+ayırma#n
+aynı fikirde ol#v
+ayran#n
+ayrıcalık#n
+azalt#v
+bağımsızlık savaşçısı#n
+bağışla#v
+bağla#v
+bağlı kal#v
+bahşiş#n
+bak#v
+bakmak#n
+barış gücü#n
+barış#v
+basın özgürlüğü#n
+basitleştir#v
+başa çık#v
+başar#v
+başında bekle#v
+başında ol#v
+başından geç#v
+başkan#n
+başkanlık et#v
+başkanlık#n
+başla#v
+başlıca#a
+başrol oyuncusu#n
+başvur#v
+bayan#n
+bayram et#v
+bayram namazı#n
+becer#v
+beceri#n
+beceriklilik#n
+bekle#v
+belirlenen#a
+belirli#a
+belli#a
+beraat kararı#n
+berraklaştır#v
+besle#v
+bey#n
+beyefendi#n
+beylik#n
+beze#v
+bezeme#n
+bil#v
+bilgi ver#v
+bilgilendir#v
+bilgin#n
+bilim adamı#n
+bilimsel#a
+bilirkişi#n
+bir araya getir#v
+birikim#n
+birikme#n
+biriktirme#n
+birinci osman#n
+birleştir#v
+birleştirme#n
+boşalma#n
+buket#n
+bul#v
+burs#n
+büyü#v
+büyük başarı#n
+büyük mutluluk#n
+büyüme#n
+cadılar bayramı#n
+cambazlık#n
+can#n
+canlan#v
+canlandır#v
+canlandırma#n
+cenaze namazı#n
+centilmen#n
+ceo#n
+cesaret ver#v
+cesaretlen#v
+cesaretlendir#v
+cesur#a
+cesurca#b
+cilala#v
+coşkunluk#n
+cuma namazı#n
+cumhurbaşkanı#n
+çağır#v
+çalış#v
+çalışır durumda#a
+çalışma#n
+çalıştır#v
+çare#n
+çek#v
+çekici gel#v
+çekici ol#v
+çevikleş#v
+çık#v
+çıplak dans#n
+çiçek aç#v
+çiçek#n
+çiçeklen#v
+çok önemli#a
+çöz#v
+çözüme kavuştur#v
+dadaizm#n
+dağıt#v
+danış#v
+danışman#n
+danışmanlık yap#v
+davet et#v
+de#v
+değer ver#v
+değerli eşya#n
+değerli maden#n
+değerli metal#n
+değerli taş#n
+değerlik#n
+dekoder#n
+dekore etme#n
+demokrasi#n
+demokrat#n
+demokratikleştirme#n
+demokratlık#n
+demoralize et#v
+dengele#v
+dengeye kavuştur#v
+deniz yıldızı gibi#n
+deokside et#v
+ders ver#v
+destekçi#n
+destekle#v
+devlet adamı#n
+devlet başkanı#n
+dezenfeksiyon#n
+dezenfekte etme#n
+dezenflasyon#n
+diğergamlık#n
+dikkatle bak#v
+dikkatlilik#n
+dile#v
+dilek#n
+din özgürlüğü#n
+dinamizm#n
+dinçlik#n
+dinginleştir#v
+dinlen#v
+dinlendir#v
+dirim#n
+disiplin#n
+disiplinli olma#n
+disiplinlilik#n
+diyet#n
+doğ#v
+doğrula#v
+doğur#v
+dolaş#v
+donat#v
+doy#v
+doyur#v
+dua#n
+duyarlı hale getir#v
+duyarlı kıl#v
+düğün#n
+dünyaya gel#v
+düşünce özgürlüğü#n
+düşünceli olma#n
+düzel#v
+düzelt#v
+düzen#n
+düzene koy#v
+düzene sok#v
+düzenle#v
+düzenleme#n
+düzenli hale getir#v
+düzenli olma#n
+düzenli#a
+düzenlilik#n
+düzlemek#p
+düzleştirmek#p
+eder#n
+edin#v
+edinilmiş beceri#n
+efendi#n
+efsanevi#a
+egemen#n
+egzersiz yap#v
+egzersiz#n
+eğilimli#a
+eğit#v
+eğitim gör#v
+eğlendiren kişi#n
+ekle#v
+ekleme#n
+ekonomik seferberlik#n
+ekonomik#a
+elde edilen şey#n
+elde et#v
+eli açık#a
+eli açıklık#n
+elit#a
+emek#n
+emirlik#n
+ender#a
+endike ol#v
+enerji#n
+enstrümantal müzik#n
+enstrümental müzik#n
+erek#n
+eriş#v
+ernest hemingway#n
+erotik#a
+esas#a
+esenlik#n
+eski haline döndür#v
+eski haline getir#v
+estetik#a
+eşitlikçilik#n
+etkin olma#n
+evrimleş#v
+faal#a
+faaliyet#n
+farmasötik ürün#n
+ferahlat#v
+ferman#n
+fethet#v
+fıkıh#n
+fırsat eşitliği#n
+fikrini al#v
+filizlen#v
+film yıldızı#n
+filozof#n
+finalist#n
+finanse et#v
+fiyat#n
+flamenko#n
+flört#n
+fonksiyon#n
+galibiyet#n
+galip gel#v
+galip#n
+gaye#n
+geçir#v
+gelecek vaad eden#a
+gelecek vaadeden#a
+gelecek vaat eden#a
+gelişim#n
+gelişme kaydet#v
+geliştir#v
+genç#a
+gençleş#v
+gençleştir#v
+genel müdür#n
+genişleme#n
+gerçek ol#v
+gerçekleş#v
+gerçeklik#n
+gerdeğe gir#v
+gerdek gecesi#n
+gerdek#n
+gerekli#a
+getir#v
+gevşe#v
+gevşek#a
+gevşet#v
+gez#v
+gezin#v
+gol#n
+göbek dansı#n
+gönder#v
+gönlü yüce#a
+gönül#n
+göster#v
+göz kulak ol#v
+gözkulak ol#v
+güçlen#v
+güçlendir#v
+gül#v
+gülümse#v
+gülünç#a
+günaydın#u
+güven oyu#n
+güven#v
+güvenoyu#n
+güzel giyin#v
+güzel#a
+güzelleştir#v
+güzellik#n
+haber ver#v
+haber verme#n
+haberdar et#v
+hac#n
+hacı#n
+haç#n
+hafiflet#v
+hakim ol#v
+halas ol#v
+halk dansı#n
+hallet#v
+halveti#n
+hanefi#n
+hanım#n
+hanımefendi#n
+hareketlilik#n
+harika#a
+hasiyet#n
+hassa#n
+hastalık#n
+hatırı sayılır#a
+hatim indir#v
+hayat#n
+hayata geç#v
+hazır bulunma#n
+hazırla#v
+hazırlık#n
+hazret-i ali#n
+hazret-i i̇brahim#n
+hazret-i muhammed#n
+hazreti ali#n
+hazreti i̇brahim#n
+hazreti muhammed#n
+hedef#n
+hedefle#v
+hediye et#v
+helal#a
+hemingway#n
+hesaplı#a
+hıristiyan din adamı#n
+hızla art#v
+hızla çoğal#v
+hızlı#a
+hipotermi#n
+hoca#n
+hocalık#n
+hoşlan#v
+hoşlanma#n
+hukuka uygunluk#n
+humanizma#n
+huri#n
+hususiyet#n
+huzur#n
+hükmet#v
+hükümdar#n
+hümanist#n
+hümanizm#n
+hünerlilik#n
+hürmet et#v
+hz. ali#n
+hz. i̇brahim#n
+hz. muhammed#n
+ıslah et#v
+ıslahat#n
+ışı#v
+ışık saç#v
+ışılda#v
+i. osman#n
+icad etme#n
+icat#n
+içgüdü#n
+idealist#n
+ifade özgürlüğü#n
+iftar yemeği#n
+iftar#n
+ihtiyatlı#a
+ihtiyatli#a
+ikna et#v
+ikna etme#n
+ikrar et#v
+iktidar#n
+ilaçla tedavi et#v
+ilave et#v
+ilave etme#n
+ilerle#v
+ilerlemek#p
+ilerlet#p
+iletişim kur#v
+ilgilen#v
+illet#n
+ilmi#a
+iltifat#n
+imal et#v
+imalat#n
+imam#n
+imtiyaz#n
+inan#v
+inanan#n
+inanç özgürlüğü#n
+inançlı kişi#n
+inandırma#n
+incel#v
+indirge#v
+indirim#n
+inkişaf#n
+insancıl#a
+insancılık#n
+insani#a
+ispatla#v
+istavroz#n
+iste#v
+istek#n
+istikrarlı hale getir#v
+istişare et#v
+işaret et#v
+işle#v
+işler durumda#a
+işlev#n
+işlevsel#a
+iştahlı#a
+itina#n
+iyi huy#n
+iyi huylu#a
+iyi niyet#n
+iyi ol#v
+iyi#a
+iyileş#v
+iyileşmek#n
+iyileştir#v
+iyiniyet#n
+izah et#v
+izan#n
+izin ver#v
+izin verme#n
+izle#v
+jeolojik olay#n
+jest#n
+kabararak yürü#v
+kabul et#v
+kahkaha at#v
+kahkaha#n
+kale#n
+kalifiye işçi#n
+kalite#n
+kanatları altına al#v
+kandil#n
+kanıt teşkil et#v
+kanıtla#v
+kanun önünde eşitlik#n
+kanuna uygunluk#n
+kaptanlık#n
+kar elde et#v
+kar et#v
+kararlı hale gel#v
+kastet#v
+kavram#n
+kavrayış#n
+kaymakam#n
+kazan#v
+kazanç elde et#v
+kazanç sağla#v
+kazandır#v
+kehanette bulun#v
+kendinden emin olma#n
+kendine gel#v
+kendine güven#n
+kendine hakim olma#n
+kendini iyi hisset#v
+kendini tutma#n
+kesin#a
+keşif#n
+keyfini kaçır#v
+keyif al#v
+keyiflen#v
+keyiflendir#v
+kına gecesi#n
+kıvamlan#v
+kıvamlandır#v
+kıymet#n
+kıymetli taş#n
+kilo ver#v
+kişileştirme#n
+kişisel özgürlük#n
+kod çözücü#n
+kolaylaştır#v
+komutanlık#n
+kont#n
+koru#v
+koruma işlemi#n
+koyul#v
+koyulaş#v
+koyulaştır#v
+koyult#v
+koyuverme#n
+koz#n
+köprü#n
+kriter#n
+kucakla#v
+kullanılabilir durumda#a
+kullanılır durumda#a
+kumandanlık#n
+kur#v
+kurban bayramı#n
+kurma#n
+kurmak#n
+kurtar#v
+kurtul#v
+kutsama#n
+kuvvetlen#v
+lazım#a
+lejyoner#n
+leydi#n
+leziz#a
+lezzetli#a
+lider#n
+liderler#n
+liderlik#n
+lüzumlu#a
+maaş artışı#n
+maaş zammı#n
+madam#n
+maddi kazanç#n
+mafevk#n
+mağlup et#v
+maharet#n
+maharetlilik#n
+mahya#n
+maksat#n
+malvarlığı#n
+mamelek#n
+mammalia sınıfı#n
+mammalia#n
+manzaralı#a
+maraz#n
+matmazel#n
+meddah#n
+medeni hak#n
+mefhum#n
+meleke#n
+merhaba#u
+meritokrasi#n
+methet#v
+mevlid#n
+mevlit#n
+meydana gel#v
+mezun#n
+model#n
+modern bale#n
+modern dans#n
+modern#a
+monte et#v
+moralini boz#v
+muayyen#a
+muhteşem#a
+multivitamin hapı#n
+multivitamin#n
+muntazam#a
+musiki#n
+muştula#v
+muta nikahı#n
+mutabakat sağla#v
+mutabakata var#v
+mutasavvıf#n
+mutemet#n
+mutlak ayni hak#n
+mutluluktan uçma#n
+muvaffak ol#v
+muziplik#n
+mücahid#n
+mücahit#n
+mücevher#n
+müdürlük#n
+müezzin#n
+müjdele#v
+mükemmel#a
+mükemmelleştir#v
+mümkün kıl#v
+müracaat et#v
+müsaade et#v
+müsaade etme#n
+müsait ol#v
+müşavir#n
+müşteri#n
+mütareke#n
+mütemayil#a
+müzehhip#n
+müzik#n
+nadir rastlanan#a
+nadir#a
+nakit varlıklar#n
+namaz#n
+nefes al#v
+nefes alıp ver#v
+nefsine hakim olma#n
+negatif enflasyon#n
+neşelen#v
+neşelendir#v
+neşvünema#n
+netleştir#v
+nezafet#n
+nitelendir#v
+nitelik#n
+nitelikli işçi#n
+noktalama işaretlerini koy#v
+normalleş#v
+normallik#n
+nosyon#n
+odakla#v
+odaklan#v
+okazyon#n
+okşa#v
+okumuş#a
+ol#v
+olgunlaş#v
+olgunlaştır#v
+oluşturmak#n
+onar#v
+onayla#v
+onur konuğu#n
+organizasyon#n
+orgazm#n
+orijinal haline döndür#v
+orijinal haline getir#v
+ortaklaşa kullan#v
+ortaya çıkma#n
+osman bey#n
+osman gazi#n
+oy birliği ile#b
+oy birliğiyle#b
+oybirliği ile#b
+oybirliğiyle#b
+oynama#n
+oyun#n
+öğle namazı#n
+öğret#v
+öğretmenlik#n
+öl#v
+ölçü#n
+öncülük et#v
+önde gelen#a
+öne almak#p
+önemli şahsiyet#n
+öner#v
+öv#v
+özellik#n
+özen#n
+özenlilik#n
+özgüleme#n
+özgülük#n
+özgür#a
+özgür dünya#n
+özgürlük savaşçısı#n
+padişah#n
+paha#n
+paklan#v
+papa#n
+papaz#n
+park et#v
+parket#v
+parla#v
+parlat#v
+parti#n
+patentli ilaç#n
+paylaş#v
+paylaşma#n
+pehlivan#n
+perhiz#n
+peygamber#n
+pohpohla#v
+polis memuru#n
+postabaşı#n
+pratik#n
+prens#n
+prenses#n
+problem çözme#n
+profesör#n
+profesyonel#n
+profesyonelleş#v
+profesyonelleştir#v
+puan üstünlüğü#n
+pürüzsüzleştir#v
+rafine et#v
+rahatla#v
+rahatlat#v
+rahmet#n
+ramazan#n
+redakte et#v
+redükle#v
+redükte et#v
+refah#n
+referans noktası#n
+referans#n
+reform#n
+reisicumhur#n
+reislik#n
+rejim#n
+rekortmen#n
+renkli#a
+riyaset#n
+ruh sağlığı#n
+rumba#n
+sabırla#b
+sabırlı bir şekilde#b
+saçma#a
+sadrazam#n
+saffet#n
+saflık#n
+sağalt#v
+sağaltım#n
+sağaltma#n
+sağla#v
+sağlama#n
+sağlığına kavuş#v
+sağlıklı gıda#n
+sağlıklı ol#v
+sağlıklı olma#n
+sahip#n
+sakıngan#a
+salam#n
+salgılama#n
+salip#n
+sanatçı#n
+sanatkar#n
+sarıl#v
+savun#v
+say#v
+saygı duy#v
+saygı göster#v
+saygınlık#n
+sayı#n
+sayrılık#n
+sebat et#v
+seccade#n
+secde et#v
+seçkin#a
+sena et#v
+senatörlük#n
+serinkanlı#a
+sermaye#n
+sessiz#a
+sev#v
+sevap#n
+sevinçten uç#v
+sevme#n
+seyahat et#v
+sezgi#n
+seziş#n
+sınırsız mülkiyet hakkı#n
+sırat köprüsü#n
+siftah#n
+sigorta#n
+silahlandır#v
+sistem#n
+siyasi lider#n
+siyasi özgürlük#n
+soğukkanlı#a
+solu#v
+sorumluluk#n
+sosyal demokrasi#n
+sosyal#a
+sosyallik#n
+spor#n
+sporsever#n
+stabilize et#v
+step dansı#n
+step#n
+steril#a
+sterilize#a
+striptiz#n
+subvanse et#v
+sultan osman#n
+sultan#n
+sun#v
+sübvanse et#v
+süratli#a
+süsle#v
+süsleme#n
+süslenip püslen#v
+şahane#a
+şarkı söyleme#n
+şehzade#n
+şenlen#v
+şenlendir#v
+şeref misafiri#n
+şık giyin#v
+şık şık giyin#v
+şiddetli#a
+şifre çözücü#n
+tahkim et#v
+tahrik et#v
+tahsis#n
+takdim et#v
+takdir et#v
+takdis#n
+talep#n
+tamir et#v
+tamirci#n
+tanı#v
+tanıştırma#n
+taraftar#n
+tarazlan#v
+tarikat#n
+tasarruf#n
+tasdik et#v
+tasdik etme#n
+tashih et#v
+tasvip et#v
+tavsiyede bulun#v
+tayin edilen#a
+tazmin et#v
+tebrik et#v
+tecrübe et#v
+teçhiz et#v
+tedarik etme#n
+tedavi et#v
+tedavi#n
+tedbirli#a
+tekamül#n
+tekemmül#n
+teklif et#v
+telafi et#v
+temayülü olan#a
+temin et#v
+temin etme#n
+temizle#v
+temizlen#v
+temizlenme#n
+temizlik durumu#n
+temizlik yap#v
+temrin#n
+temsil et#v
+tenzilat#n
+terapi#n
+terfi ettir#v
+terfi#n
+tesbih#n
+teselli et#v
+teselli kaynağı#n
+tespih#n
+tespit edilen#a
+teşekkür et#v
+teşkil et#n
+teşvik et#v
+teşvik programı#n
+teşvik sistemi#n
+tevhid#n
+tevhit#n
+teyit et#v
+tezhip#n
+tezhipçi#n
+tezyin et#v
+tımar#n
+tıp uzmanı#n
+titizlik#n
+tolerans gösterme#n
+tolere etme#n
+topla#v
+toplanma özgürlüğü#n
+toplantı özgürlüğü#n
+toplu eylem#n
+uç#v
+ulaş#v
+ulaştır#v
+ulema#n
+umut ver#v
+umutlu ol#v
+unutma#v
+usta#n
+ustabaşı#n
+uy#v
+uyar#v
+uygun bul#v
+uygun ol#v
+uysallık#n
+uyum sağlama#n
+uyumluluk#n
+uzat#v
+uzlaş#v
+uzlaşmaya var#v
+uzmanlaş#v
+uzmanlık#n
+ümit ver#v
+ümitli ol#v
+üret#v
+üretim#n
+üret#v
+ürün#n
+üst sınıf#a
+üst#n
+vacip#a
+vakıf#n
+valilik#n
+vasıf#n
+vasıflı işçi#n
+vatandaşlık hakkı#n
+ver#v
+vezaret#n
+vezirlik#n
+vitamin hapı#n
+vuku bul#v
+vücut#n
+yağla#v
+yağma et#v
+yağmala#v
+yağmur#n
+yakma#n
+yama yap#v
+yama#v
+yaratım#n
+yardım et#v
+yardımcı ol#v
+yasa önünde eşitlik#n
+yasalar önünde eşitlik#n
+yasallık#n
+yasaya uygunluk#n
+yaşa#v
+yaşam#n
+yaşama amacı#n
+yatıştır#v
+yaver#n
+yaygınlaştırma#n
+yayıl#v
+yayılış#n
+yayılma#n
+yayına hazırla#v
+yayma#n
+yeğin#a
+yemin et#v
+yen#v
+yer sofrası#n
+yet#v
+yeterli ol#v
+yeterlilik#n
+yeti#n
+yetiştir#v
+yıkama#n
+yıkanma#n
+yoğun#a
+yoğunlaş#v
+yol katet#v
+yola getir#v
+yönetim danışmanı#n
+yurttaşlık hakkı#n
+yüce gönüllü#a
+yücelt#v
+yükseltme#n
+yüzeye çık#v
+zam#n
+zanaatçı#n
+zanaatkar#n
+zayıfla#v
+zekat#n
+zenginleştir#v
+zevk al#v
+zihinsel üretim#n

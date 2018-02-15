@@ -1,0 +1,1414 @@
+bırakmak#v
+terketmek#v
+vazgeçmek#v
+feragat etmek#v
+caymak#v
+atmak#v
+azalmak#v
+durulmak#v
+yatışmak#v
+hafiflemek#v
+nefret etmek#v
+tiksinmek#v
+iğrenmek#v
+anormal#a
+gıyap#n
+yokluk#n
+bulunmama#n
+namevcut#a
+dalgın#a
+gülünç#a
+aptalca#a
+saçma#a
+anlamsız#a
+saçmalık#n
+aptallık#n
+ahmaklık#n
+hakaret#n
+eziyet#n
+kötü davranma#n
+suiistimal etmek#v
+kötüye kullanmak#v
+kaza#n
+tesadüf#n
+raslantı#n
+konuşmak#v
+suçlama#n
+itham#n
+suçlamak#v
+itham etmek#v
+acımak#v
+özlemini çekmek#v
+hasretini çekmek#v
+ağrımak#v
+bağımlılık#n
+tabiiyet#n
+bağımlı#n
+müptela#n
+uyarmak#v
+ikaz etmek#v
+uyarı#n
+ihtar#n
+karşıt#n
+aleyhtar#n
+muhalif#n
+güçlük#n
+zorluk#n
+keder#n
+üzüntü#n
+gam#n
+elem#n
+dert#n
+beter etmek#v
+kötüleştirmek#v
+kışkırtma#n
+provokasyon#n
+saldırganlık#n
+saldırı#n
+hücum#n
+taarruz#n
+kırmak#v
+incitmek#v
+üzmek#v
+sallamak#v
+tahrik etmek#v
+ajitasyon#n
+ajite etme#n
+tahrik#n
+tahrik etme#n
+şikayet#n
+korkutmak#v
+telaşa düşürmek#v
+bahane#n
+mazeret#n
+yabancı#n
+ecnebi#n
+pusu#n
+kesmek#v
+anarşist#n
+anarşi#n
+kanunsuzluk#n
+kızgınlık#n
+öfke#n
+sinirlenmek#v
+kızmak#v
+öfkelenmek#v
+sinirlendirmek#v
+kızdırmak#v
+öfkelendirmek#v
+yoketmek#v
+rahatsız etmek#v
+sinir etmek#v
+illet etmek#v
+düşmanlık#n
+husumet#n
+kaygı#n
+anksiyete#n
+apati#n
+ilgisizlik#n
+duygusuzluk#n
+kayıtsızlık#n
+gözaltına alma#n
+tartışmak#v
+tartışma#n
+tutuklamak#v
+tevkif etmek#v
+kibir#n
+kurum#n
+azamet#n
+büyüklenme#n
+yapay#a
+suni#a
+saldırmak#v
+taarruz etmek#v
+hücum etmek#v
+suikast yapmak#v
+tasallut#n
+tecavüz#n
+müessir fiil#n
+kriz#n
+nöbet#n
+otoriter#a
+tiranca#a
+despotik#a
+despotça#a
+diktatörce#a
+gevelemek#v
+saçmalamak#v
+zırvalamak#v
+çağıldamak#v
+feci#a
+kötü#a
+şaşırtmak#v
+kafa karıştırmak#v
+kafasını karıştırmak#v
+akıl karıştırmak#v
+aklını karıştırmak#v
+alay etmek#v
+dalga geçmek#v
+eşkiya#n
+eşkıya#n
+haydut#n
+lanet#n
+aforoz etmek#v
+iflas#n
+gaddar#a
+acımasız#a
+zalim#a
+engel#n
+mani#n
+mania#n
+obstrüksiyon#n
+bariyer#n
+savaş alanı#n
+muharebe sahası#n
+muharebe#n
+mücadele#n
+savaşım#n
+çatışma#n
+ritim#n
+tımbırdamak#v
+çırpmak#v
+dövmek#v
+tempo tutmak#v
+tik tak etmek#v
+vurmak#v
+yalvarmak#v
+dilenmek#v
+kafasını kesmek#v
+kafasını uçurmak#v
+kellesini kesmek#v
+kellesini uçurmak#v
+çarpıtmak#v
+eleştirmek#v
+kusur bulmak#v
+sataşmak#v
+uğraşmak#v
+kuşatmak#v
+ablukaya almak#v
+etrafını çevirmek#v
+ihata etmek#v
+muhasara etmek#v
+aldatma#n
+ihanet#n
+hıyanet#n
+lokma#n
+ısırmak#v
+tuhaf#a
+garip#a
+egzantrik#a
+eksantrik#a
+ayrıksı#a
+patlama#n
+patlama sesi#n
+kusur#n
+kör#a
+perde#n
+körlük#n
+tıkanıklık#n
+blok#n
+dikdörtgenler prizması#n
+öbek#n
+makara#n
+tıkamak#v
+unutmak#v
+hatırlamamak#v
+hatırlayamamak#v
+yenilgi#n
+mağlubiyet#n
+şok#n
+darbe#n
+üflemek#v
+çalmak#v
+öttürmek#v
+sıçmak#v
+batırmak#v
+sıçıp batırmak#v
+içine etmek#v
+içine sıçmak#v
+çarçur etmek#v
+saçıp savurmak#v
+yanmak#v
+övünmek#v
+hava atmak#v
+gösteriş yapmak#v
+sürüklenmek#v
+Saçıp savurmak#v
+israf etmek#v
+ötmek#v
+gaf#n
+pot#n
+bulanıklaşmak#v
+bulanıklaştırmak#v
+bombardıman#n
+bombalama#n
+bomba#n
+boks maçı#n
+rütbesini düşürmek#v
+kırılmak#v
+dağılmak#v
+yarıda durdurmak#v
+bozmak#v
+son vermek#v
+yıkılmak#v
+çökmek#v
+duyulmak#v
+bozulmak#v
+ayrılmak#v
+ifşa etmek#v
+rüşvet vermek#v
+kuluçkaya yatmak#v
+barbarlık#n
+hayvan#n
+kurşun#n
+mermi#n
+kıç#n
+kaba et#n
+kalça#n
+popo#n
+göt#n
+anafikir#n
+ana fikir#n
+tema#n
+konu#n
+mevzu#n
+yüklemek#v
+görevlendirmek#v
+görev vermek#v
+güneş yanığı#n
+yakmak#v
+yanıp tutuşmak#v
+koterize etmek#v
+dağlamak#v
+saklamak#v
+gizlemek#v
+kasaplık#n
+mezbaha#n
+felaket#n
+facia#n
+afet#n
+yıkım#n
+iptal#n
+iptal etmek#v
+kanser#n
+uyluk#n
+yakalamak#v
+derdest etmek#v
+tutmak#v
+ele geçirmek#v
+sendelemek#v
+yalpalamak#v
+dikkatsiz#a
+özensiz#a
+savruk#a
+dikkatsizlik#n
+ihmal#n
+yakalama#n
+tutma#n
+sansürlemek#v
+hodri meydan demek#v
+kaos#n
+mali yükümlülük#n
+ücret#n
+bedel#n
+doldurmak#v
+fatura etmek#v
+ücret tahakkuk ettirmek#v
+ücret talep etmek#v
+tahsil etmek#v
+takip#n
+izleme#n
+takip etmek#v
+izlemek#v
+hakketmek#v
+oymak#v
+oyma yapmak#v
+azarlamak#v
+kronik#a
+süreğen#a
+süregen#a
+uğultu#n
+klik#n
+hizip#n
+kapanmak#v
+son bulmak#v
+kapamak#v
+kapatmak#v
+golf sopası#n
+sinek#n
+gece kulübü#n
+kulüp binası#n
+sopa#n
+kulüp#n
+zorlamak#v
+baskı yapmak#v
+soğuk#a
+nezle#n
+soğuk#n
+patlatmak#v
+çarpışma#n
+koloni#n
+kavga#n
+koymak#v
+klişe#n
+gürültü#n
+yaygara#n
+kıyamet#n
+şamata#n
+patırtı#n
+mecbur tutmak#v
+yükümlü kılmak#v
+yarışmak#v
+rekabet#n
+yarışma#n
+müsabaka#n
+rakip#n
+şikayet etmek#v
+yakınmak#v
+karmaşık hale getirmek#v
+karıştırmak#v
+karmaşıklaştırmak#v
+zorlaştırmak#v
+komplikasyon#n
+endişe#n
+başağrısı#n
+curse#n
+mühürleme#n
+mahkumiyet kararı#n
+günah çıkarma#n
+itiraf etmek#v
+günah çıkarmak#v
+özgürlüğünü kısıtlama#n
+sınırlanma#n
+kısıtlanma#n
+kapatılma#n
+hapsetmek#v
+kısıtlamak#v
+sınırlandırmak#v
+sınırlamak#v
+müsadere#n
+zor alım#n
+zoralım#n
+görüş ayrılığı#n
+ihtilaf#n
+karşı karşıya gelme#n
+komplo#n
+kısıtlayıcı şey#n
+kirletmek#v
+pisletmek#v
+kirletme#n
+pisletme#n
+başa çıkmak#v
+halletmek#v
+becermek#v
+çürütmek#v
+reddetmek#v
+itiraz etmek#v
+kabul etmemek#v
+hükümlü#n
+mahkum#n
+mahkum etmek#v
+suçlu bulmak#v
+soğukluk#n
+soğutmak#v
+soğumak#v
+serinlemek#v
+korozyon#n
+eder#n
+fiyat#n
+paha#n
+maliyet#n
+tutarında olmak#v
+etmek#v
+malolmak#v
+sabote etmek#v
+korkak#n
+ölmek#v
+sinmek#v
+sürünerek ilerlemek#v
+suç#n
+cürüm#n
+suçlu#n
+bunalım#n
+buhran#n
+eleştiri#n
+eleştirmen#n
+homurdanmak#v
+eğri#a
+çarpık#a
+eğri büğrü#a
+kesişmek#v
+katetmek#v
+çaprazlamak#v
+vahşet#n
+harap olmak#v
+buruşmak#v
+ezmek#v
+küfür#n
+sövgü#n
+sövmek#v
+küfretmek#v
+kaale almamak#v
+dikkate almamak#v
+aldırmamak#v
+yok saymak#v
+azaltmak#v
+kısaltmak#v
+zarar#n
+hasar#n
+zarar vermek#v
+hasar vermek#v
+lanetli#a
+tehlike#n
+muhatara#n
+risk#n
+riziko#n
+karartmak#v
+kararmak#v
+karanlık#n
+sallanmak#v
+ağırdan almak#v
+cansız#a
+ölü#a
+sağır#a
+kıtlık#n
+son#n
+nihayet#n
+ölüm#n
+vefat#n
+mevt#n
+irtihal#n
+bozuşma#n
+ayrışma#n
+çürüme#n
+bozunum#n
+bozulma#n
+çürümek#v
+ayrışmak#v
+bozuşmak#v
+vefat etmek#v
+can vermek#v
+kandırma#n
+aldatmak#v
+kandırmak#v
+ilüzyon#n
+numara#n
+azalma#n
+küçülme#n
+kötüleşme#n
+gerileme#n
+zayıflamak#v
+sönmek#v
+kötüleşmek#v
+beter olmak#v
+kötüye gitmek#v
+geri çevirmek#v
+ayrıştırmak#v
+düşüş#n
+azaltma#n
+indirme#n
+düşürme#n
+küçültmek#v
+düşmek#v
+küçülmek#v
+temerrüde düşmek#v
+temerrüte düşmek#v
+hata#n
+defo#n
+bozukluk#n
+isyankarlık#n
+asilik#n
+eksik#n
+eksiklik#n
+noksan#n
+açık#n
+alçaltmak#v
+gecikme#n
+teehhür#n
+rötar#n
+geciktirmek#v
+gecikmek#v
+sel#n
+ahlakını bozmak#v
+yozlaştırmak#v
+moralini bozmak#v
+demoralize etmek#v
+keyfini kaçırmak#v
+red#n
+mahrum etmek#v
+inkar etmek#v
+bağımlı#a
+tabi#a
+tüketmek#v
+acıklı#a
+rezil#a
+berbat#a
+sefil#a
+yeminli ifade vermek#v
+görevden almak#v
+ekonomik kriz#n
+depresyon#n
+çukur#n
+çöküklük#n
+çöküntü#n
+elinden almak#v
+istek#n
+arzu#n
+ümitsizlik#n
+umutsuzluk#n
+meyusiyet#n
+umudunu kesmek#v
+umudunu kaybetmek#v
+ümidini kaybetmek#v
+ümidini kesmek#v
+umut kesmek#v
+ümit kesmek#v
+mahvetmek#v
+ortadan kaldırmak#v
+mahvetme#n
+yıkma#n
+caydırmak#v
+vazgeçirmek#v
+sapma#n
+sapış#n
+yön değiştirme#n
+dikte etmek#v
+farklı görüşte olmak#v
+farklı olmak#v
+zor#a
+güç#a
+sorun#n
+ikilem#n
+sönük#a
+loş#a
+sönükleşmek#v
+donuklaşmak#v
+donuklaştırmak#v
+bok#n
+toprak#n
+pis#a
+kirli#a
+dezavantaj#n
+itiraz#n
+uyuşmazlık#n
+uyumsuzluk#n
+zıtlık#n
+hayalkırıklığı#n
+hayal kırıklığı#n
+düşkırıklığı#n
+düş kırıklığı#n
+hayal kırıklığına uğratmak#v
+onaylamama#n
+tasvip etmeme#n
+tasvip etmemek#v
+onaylamamak#v
+yanlış bulmak#v
+inkar#n
+inkar etme#n
+yadsıma#n
+kuşku#n
+şüphe#n
+ibraname#n
+kovma#n
+şutlama#n
+atma#n
+işten atma#n
+eksizyon#n
+boşalma#n
+boşaltmak#v
+boşalmak#v
+dışarı atmak#v
+ateş almak#v
+rahatsızlık#n
+cesaretini kırmak#v
+ayırdetmek#v
+ayrımcılık yapmak#v
+hastalık#n
+sayrılık#n
+maraz#n
+illet#n
+utanç#n
+kamuflaj#n
+iğrenç#a
+tiksinç#a
+nefret#n
+tiksinti#n
+rezil etmek#v
+hoşlanmama#n
+sevmeme#n
+hoşlanmamak#v
+sevmemek#v
+kovmak#v
+işten çıkarmak#v
+işten çıkartmak#v
+şutlamak#v
+gözardı etmek#v
+görmezden gelmek#v
+itaatsizlik#n
+kargaşa#n
+dağınıklık#n
+karışıklık#n
+kovalamak#v
+dağıtmak#v
+yerini değiştirmek#v
+tasfiye#n
+elden çıkarma#n
+kafasından atmak#v
+duraklama#n
+kesinti#n
+inkıta#n
+fasıla#n
+durdurmak#v
+memnuniyetsizlik#n
+protesto#n
+karşı oy#n
+parçalanma#n
+bozulmuş şekil#n
+bükmek#v
+endişelendirmek#v
+enterferans#n
+etkileşim#n
+ruh hastalığı#n
+ruhsal rahatsızlık#n
+psikolojik bozukluk#n
+bölmek#v
+parçalamak#v
+ayırmak#v
+bölüm#n
+kısım#n
+ayırma#n
+bölme#n
+bölmelere ayırma#n
+taksim#n
+filo#n
+tümen#n
+fırka#n
+departman#n
+boşanma#n
+durgunluk#n
+stagnasyon#n
+hakim olmak#v
+tereddüt#n
+yağış#n
+taramak#v
+kazımak#v
+korkmak#v
+yar#n
+uçurum#n
+atış#n
+boncuk#n
+zula#n
+bir damla#n
+damlatmak#v
+üstünden atmak#v
+pesleştirmek#v
+harcamak#v
+sarf etmek#v
+düşürmek#v
+devirmek#v
+atlamak#v
+kaçırmak#v
+gözden kaçırmak#v
+kuraklık#n
+boğulmak#v
+suda boğmak#v
+suda boğarak öldürmek#v
+boğmak#v
+sarhoş#a
+ayyaş#n
+sarhoş#n
+sıkıcı#a
+donuk#a
+çöplük#n
+süprüntülük#n
+mezbele#n
+yükümlülük#n
+sorumluluk#n
+gümrük vergisi#n
+utandırmak#v
+olağanüstü hal#n
+tehdit etmek#v
+düşman#n
+yağı#n
+hasım#n
+uygulamak#v
+gömülmek#v
+dolaştırmak#v
+kıskançlık#n
+silmek#v
+aşınma#n
+erozyon#n
+itikal#n
+yanlış#n
+hata yapmak#v
+yanlış yapmak#v
+sapmak#v
+ödememe#n
+kötülük#n
+kemlik#n
+şer#n
+ahlaksızlık#n
+abartı#n
+mübalağa#n
+deli etmek#v
+istisna#n
+dışarıda bırakmak#v
+dahil etmemek#v
+kapsama almamak#v
+kapsamına almamak#v
+kapsamamak#v
+dahil olmamak#v
+hariç olmak#v
+kapı dışarı etmek#v
+idam etmek#v
+sürmek#v
+sınırdışı etmek#v
+çıkmak#v
+terk etmek#v
+gider#n
+masraf#n
+harcama#n
+patlamak#v
+infilak etmek#v
+sömürmek#v
+istismar etmek#v
+ortaya çıkarmak#v
+gözler önüne sermek#v
+öldürme#v
+başarısızlık#n
+muvaffakiyetsizlik#n
+başarısız olmak#v
+becerememek#v
+başaramamak#v
+yağmak#v
+devrilmek#v
+şehit düşmek#v
+sahte#a
+uydurma#a
+kekelemek#v
+faşist#a
+güçsüz#a
+görünmek#v
+numara yapmak#v
+gibi yapmak#v
+kıpırdanmak#v
+dövüşçü#n
+savaş uçağı#n
+kavga etmek#v
+döğüşmek#v
+dövüşmek#v
+itişmek#v
+savaşmak#v
+ateş#n
+yangın#n
+ateş etme#n
+kaçmak#v
+budalalık#n
+akılsızlık#n
+yemek#v
+imkansız kılmak#v
+önlemek#v
+engellemek#v
+izin vermemek#v
+müsaade etmemek#v
+yasaklamak#v
+menetmek#v
+men etmek#v
+itmek#v
+kırılgan#a
+yolsuzluk#n
+sahtekarlık#n
+dolandırıcılık#n
+hilkat garibesi#n
+sürtmek#v
+nafile#a
+boş#a
+sonuçsuz#a
+etkisiz#a
+faydasız#a
+eziyet etmek#v
+hiddet#n
+hışım#n
+gazap#n
+kanatları altına almak#v
+kumar oynamak#v
+mikrop#n
+iktisap etmek#v
+maruz kalmak#v
+getto#n
+depresif#a
+mezar#n
+kabir#n
+sin#n
+makber#n
+gömüt#n
+metfen#n
+medfen#n
+acı#n
+acı çekmek#v
+üzüntü duymak#v
+kederlenmek#v
+gerilla#n
+suçluluk#n
+ağır silah#n
+gaz pedalı#n
+gaz pedali#n
+gaz#n
+taksi#n
+asılı olmak#v
+asılmış olmak#v
+asmak#v
+sallandırmak#v
+takmak#v
+yerleştirmek#v
+aklına takılmak#v
+kafasını kurcalamak#v
+taciz#n
+sertlik#n
+şiddet#n
+yaralanma#n
+sisli#a
+bulanık#a
+düşüncesiz#a
+aciz#n
+çaresizlik#n
+önünü kesmek#v
+mani olmak#v
+külfet#n
+yük#n
+engelleme#n
+hakkından gelmek#v
+gebertmek#v
+işini bitirmek#v
+çarpmak#v
+tepmek#v
+tekmelemek#v
+aksamak#v
+topallamak#v
+oyuk#n
+delik#n
+yağılık#n
+hasımlık#n
+gururunu kırmak#v
+aşağılamak#v
+açlık#n
+avcı#n
+avlamak#v
+gücendirmek#v
+acıtmak#v
+gerizekalı#n
+geri zekalı#n
+moron#n
+aptal#n
+cahillik#n
+cehalet#n
+yasadışı#a
+yasa dışı#a
+kanunsuz#a
+illegal#a
+yasadışılık#n
+genç#a
+olgunlaşmamış#a
+hareketsizlik#n
+ahlaksız#a
+sabırsız#a
+kusurlu#a
+yetersiz#a
+eksik#a
+tarh etmek#v
+salmak#v
+yetersizlik#n
+kifayetsizlik#n
+belirsiz#a
+iddianame#n
+şımartmak#v
+yüz vermek#v
+tesirsiz#a
+tesirsizlik#n
+etkisizlik#n
+eşitsizlik#n
+enfeksiyon#n
+enfekte etmek#v
+kalitesiz#a
+kalitesizlik#n
+enflasyon#n
+ihlal#n
+nankörlük#n
+engellenme#n
+bastırmak#v
+insanlık dışı#a
+yaralamak#v
+mecruh etmek#v
+sinsi#a
+önemsiz#a
+ehemmiyetsiz#a
+istikrarsızlık#n
+hakaret etmek#v
+araya girme#n
+müdahale#n
+işgal etmek#v
+istila etmek#v
+geçersiz#a
+ironik#a
+demir#n
+kızgın demir#n
+dağlama aleti#n
+ütü#n
+irrasyonel#a
+akılcı olmayan#a
+kurallara aykırı#a
+teamüle aykırı#a
+kuraldışı#a
+düzensizlik#n
+sorumsuz#a
+izole etmek#v
+tecrit etmek#v
+hapishane#n
+hapis#n
+kodes#n
+dam#n
+cezaevi#n
+ceza evi#n
+tutukevi#n
+tutuk evi#n
+mapushane#n
+mahpushane#n
+tekme#n
+tekmeleme#n
+öldürme#n
+katletme#n
+katil#n
+öldürmek#v
+can almak#v
+yok etmek#v
+bıçaklamak#v
+vuruntu yapmak#v
+tıpırdatmak#v
+eksik olmak#v
+güçsüzleşmek#v
+sızıntı#n
+~tirmek#v
+borç#n
+pozisyon#n
+duruş#n
+kalmak#v
+~de olmak#v
+durmak#v
+kaynaklanmak#v
+yalan söylemek#v
+sınırlama#n
+kısıtlama#n
+sınır#n
+limit#n
+sınır çizgisi#n
+hudut#n
+hudut çizgisi#n
+tasfiye etmek#v
+tamamen ödemek#v
+tamamını ödemek#v
+etkisiz hale getirmek#v
+kaybetmek#v
+fırsatı kaçırmak#v
+elinden kaçırmak#v
+yitirmek#v
+kayıp#n
+zayi#n
+düşük#a
+az#a
+alçak#a
+ayartmak#v
+kuduz#n
+kötü niyetli#a
+manipüle etmek#v
+katliam yapmak#v
+katletmek#v
+ortalama#a
+melankoli#n
+bulamaç#n
+karmakarışık etmek#v
+maden#n
+mayın#n
+terbiyesizlik#n
+uygunsuz davranış#n
+uygunsuz hareket#n
+şanssızlık#n
+bahtsızlık#n
+talihsizlik#n
+yanıltmak#v
+yanlış bilgi vermek#v
+yanlış yönlendirmek#v
+ıskalamak#v
+özlemek#v
+güvenmemek#v
+parodi#n
+taklit#n
+monoton#a
+tekdüze#a
+hareketsiz#a
+durağan#a
+üzülmek#v
+cinayet#n
+güdülenme#n
+olumsuzlama#n
+yalanlama#n
+olumsuz#a
+negatif#a
+menfi#a
+sinirlilik#n
+kabus#n
+ses#n
+zırva#n
+eğik#a
+muğlak#a
+reaksiyon göstermek#v
+tepki göstermek#v
+direniş#n
+karşı koyma#n
+dayanma#n
+mukavemet#n
+muhalefet#n
+derecelendirmek#v
+sıralamak#v
+buyurmak#v
+emretmek#v
+emir vermek#v
+skandal#n
+rezalet#n
+denetim#n
+denetleme#n
+borcu olmak#v
+ağrı#n
+panik#n
+parazit#n
+asalak#n
+tufeyli#n
+demode#a
+modası geçmiş#a
+müşterisi olmak#v
+zulüm#n
+sapık#n
+sapkın#n
+kötümserlik#n
+karamsarlık#n
+pesimizm#n
+kötümser#a
+karamsar#a
+pesimist#a
+fobi#n
+fobik bozukluk#n
+fobik nevroz#n
+koparmak#v
+didiklemek#v
+sıkmak#v
+veba#n
+zehir#n
+ağı#n
+sem#n
+fakir#a
+yoksul#a
+fukara#a
+fakirlik#n
+yoksulluk#n
+sefillik#n
+sefalet#n
+zayıf#a
+dürtüklemek#v
+preslemek#v
+sahte davranmak#v
+poz yapmak#v
+rol yapmak#v
+tutsak#n
+esir#n
+mesele#n
+problem#n
+sokmak#v
+daldırmak#v
+propaganda#n
+iddia makamı#n
+protesto etmek#v
+uyandırmak#v
+delmek#v
+delik açmak#v
+cezalandırmak#v
+abanmak#v
+istifa etmek#v
+pes etmek#v
+ırk#n
+yarış#n
+maaş artışı#n
+maaş zammı#n
+zam#n
+kaldırma#n
+boş boş gezmek#v
+grev kırıcı#n
+sıçan#n
+takırdamak#v
+tıngırdamak#v
+ayaklanma#n
+isyan#n
+başkaldırı#n
+bağımsızlık savaşçısı#n
+özgürlük savaşçısı#n
+isyan etmek#v
+ayaklanmak#v
+başkaldırmak#v
+baş kaldırmak#v
+boşa çıkartmak#v
+boşa çıkarmak#v
+cerhetmek#v
+geri çekilmek#v
+çekilmek#v
+ricat etmek#v
+imtina etmek#v
+kaçınmak#v
+mülteci#n
+gerilemek#v
+geri gitmek#v
+geriye gitmek#v
+pişmanlık#n
+nedamet#n
+pişman olmak#v
+itici olmak#v
+huzursuzluk#n
+yavaşlamak#v
+intikam#n
+devrim#n
+binmek#v
+~le gitmek#v
+bağlı olmak#v
+alaya almak#v
+sert#a
+katı#a
+yırtık#n
+boy ölçüşmek#v
+soygun#n
+yerleşmek#v
+yerine oturmak#v
+pürüzlü#a
+harap olma#n
+viran olma#n
+harabe#n
+rivayet#n
+eğilimli olmak#v
+meyyal olmak#v
+temayülü olmak#v
+koşturmak#v
+akmak#v
+koşmak#v
+sıvışmak#v
+tabanları yağlamak#v
+eritmek#v
+değişmek#v
+hüzün#n
+mutsuzluk#n
+bedbahtlık#n
+vahşi#a
+strateji#n
+sistem#n
+dizge#n
+kavurmak#v
+bağırmak#v
+haykırmak#v
+ciyaklamak#v
+cıyaklamak#v
+gıcırdamak#v
+dikkatle bakmak#v
+sır#n
+gizem#n
+giz#n
+muamma#n
+kaynamak#v
+köpürmek#v
+bencillik#n
+yaramak#v
+olarak kullanılmak#v
+görevi görmek#v
+korkunç#a
+titremek#v
+hicap#n
+köpek balığı#n
+köpekbalığı#n
+kabuk#n
+yumurta kabuğu#n
+kasa#n
+gemi enkazı#n
+tir tir titremek#v
+sürgün#n
+vurarak öldürmek#v
+filme çekmek#v
+ateş etmek#v
+enjekte etmek#v
+zerketmek#v
+fotoğraf çekmek#v
+fotoğrafını çekmek#v
+resim çekmek#v
+resmini çekmek#v
+fotoğraflamak#v
+filizlenmek#v
+tek#n
+vuruş#n
+enjeksiyon#n
+zerketme#n
+zerk etme#n
+itip kakmak#v
+sivri fare#n
+sivrifare#n
+çinko#v
+büzüşmek#v
+kırışmak#v
+buruş buruş olmak#v
+kırış kırış olmak#v
+kefen#n
+solgun#a
+bulantı#n
+kuşatma#n
+batmak#v
+sinüs#n
+günah#n
+tokatlamak#v
+tokat atmak#v
+saygısızlık#n
+tembel hayvan#n
+büyük başarı#n
+çarpma#n
+çarpış#n
+boğarak öldürmek#v
+kaplamak#v
+sessizce sokulmak#v
+horlamak#v
+dökmek#v
+dökülmek#v
+burkmak#v
+aç bırakmak#v
+aç olmak#v
+acıkmak#v
+açlıktan ölmek#v
+elektrostatik#a
+statik#a
+leke#n
+sancı vermek#v
+leş gibi kokmak#v
+basmak#v
+stres#n
+sınırlarını zorlamak#v
+süzmek#v
+germek#v
+boğazlamak#v
+gerginlik#n
+grev#n
+gösteri#n
+akılsız#a
+aptal#a
+boyun eğme#n
+itaat etme#n
+ikame#n
+lolipop#n
+hasta#n
+rahatsız olmak#v
+dayanmak#v
+tahammül etmek#v
+sabretmek#v
+katlanmak#v
+muzdarip olmak#v
+eğilimli#a
+temayülü olan#a
+mütemayil#a
+süspansiyon#n
+asıltı#n
+semptom#n
+belirti#n
+araz#n
+alay etme#n
+alay#n
+vergi almak#v
+vergilendirmek#v
+kopmak#v
+yaşarmak#v
+gergin#a
+hırsızlık#n
+sirkat#n
+çalma#n
+susuzluk#n
+dikenli#a
+fırlatmak#v
+yorulmak#v
+ter dökmek#v
+çabalamak#v
+didinmek#v
+işkence etmek#v
+azap vermek#v
+alıngan#a
+tuzak#n
+trap#n
+denemek#v
+tecrübe etmek#v
+çevirmek#v
+fermente olmak#v
+ekşimek#v
+durum değiştirmek#v
+yön değiştirmek#v
+tersine dönmek#v
+diktatörlük#n
+despotluk#n
+tiranlık#n
+çirkin#a
+çekiciliği olmayan#a
+çekici olmayan#a
+rahatsız#a
+yeraltı dünyası#n
+paketini açmak#v
+geri almak#v
+bahtsız#n
+talihsiz#n
+mutsuz#a
+sağlıksız#a
+kaba#a
+yasaya aykırı#a
+yasalara aykırı#a
+gereksiz#a
+lüzumsuz#a
+fuzuli#a
+sevilmeyen#a
+dengesizlik#n
+iğretilik#n
+isteksiz#a
+kökünden sökmek#v
+köklemek#v
+çekiçlemek#v
+işe yaramaz#a
+yararsız#a
+serseri#n
+yok olmak#v
+ortadan kalkmak#v
+ortadan kaybolmak#v
+kaybolmak#v
+zor#n
+kaba kuvvet#n
+engerek#n
+engerek yılanı#n
+hiçlik#n
+boşluk#n
+kusmuk#n
+savaş#n
+harp#n
+israf#n
+savurganlık#n
+atık#n
+çöp#n
+ziyan etmek#v
+heba etmek#v
+zayıflatmak#v
+güçsüzleştirmek#v
+güçsüz düşürmek#v
+giymek#v
+yabani ot#n
+yaban otu#n
+ot#n
+ağlamak#v
+vermemek#v
+~den mahsup etmek#v
+yaralama#n
+yara#n
+debelenmek#v
+kırışık#n
+haksızlık etmek#v

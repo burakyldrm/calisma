@@ -1,0 +1,1398 @@
+dalma#n
+dalgınlık#n
+soğurma#n
+emme#n
+massetme#n
+bolluk#n
+kabul#n
+kabul etmek#v
+teslim almak#v
+nişan#n
+uyarlamak#v
+adapte etmek#v
+intibak ettirmek#v
+uymak#v
+uygun olmak#v
+başarı#n
+edinilmiş beceri#n
+ifa etmek#v
+yapmak#v
+yerine getirmek#v
+başarmak#v
+muvaffak olmak#v
+vermek#v
+takdim etmek#v
+uyuşmak#v
+birbirine uymak#v
+tanıdık#n
+bildik#n
+tanıtmak#v
+tanıştırmak#v
+tanışmak#v
+beraat#n
+beraat kararı#n
+aklanma#n
+aklanma kararı#n
+beraat ettirmek#v
+davranmak#v
+gerçek#a
+hakiki#a
+mevcut#a
+fiili#a
+fiiliyat#n
+uyum sağlama#n
+adaptasyon#n
+bağlılık#n
+ayarlama#n
+tadilat#n
+ayarlamak#v
+uyum sağlamak#v
+adapte olmak#v
+hayranlıkla bakmak#v
+ikrar etmek#v
+içeri almak#v
+süs#n
+bezek#n
+süslemek#v
+tezyin etmek#v
+bezemek#v
+yetişkin#a
+ilerleme#n
+avans#n
+öndelik#n
+gelişme#n
+artış#n
+yükselme#n
+desteklemek#v
+öne almak#v
+ilerletmek#v
+artmak#v
+artırmak#v
+arttırmak#v
+yükseltmek#v
+terfi ettirmek#v
+ilerlemek#v
+yol katetmek#v
+gelişme kaydetmek#v
+geçmek#v
+öne sürmek#v
+avantaj#n
+doğuş#n
+ortaya çıkma#n
+zuhur#n
+sevgi#n
+muhabbet#n
+sempati#n
+yakınlık#n
+beraber olmak#v
+ilişki#n
+onama#n
+yemin etmek#v
+ant içmek#v
+doğrulamak#v
+tasdik etmek#v
+onaylamak#v
+teyit etmek#v
+sonuna eklemek#v
+zenginlik#n
+toplam#n
+toplama#n
+koleksiyon#n
+onaylama#n
+onay#n
+tasdik#n
+tasdik etme#n
+mutabakat#n
+uyum#n
+denklik#n
+uyuşma#n
+anlaşma#n
+yardım#n
+bakım#n
+ilgi#n
+dikkat#n
+muavenet#n
+yardımcı olmak#v
+yardım etmek#v
+canlı#a
+diri#a
+kolaylaştırmak#v
+rahatlatmak#v
+hafifletmek#v
+yatıştırmak#v
+ittifak#n
+koalisyon#n
+birlik#n
+konfederasyon#n
+tolerans#n
+izin verme#n
+müsaade etme#n
+izin vermek#v
+müsaade etmek#v
+dikkate almak#v
+göz önüne almak#v
+imkan sağlamak#v
+mümkün kılmak#v
+müttefik#n
+şaşkınlık#n
+hayret#n
+iyileşmek#v
+düzelmek#v
+iyileştirmek#v
+geliştirmek#v
+af#n
+aşk ilişkisi#n
+abartmak#v
+mübalağa etmek#v
+eğlence#n
+eğlendirmek#v
+aziz#n
+ermiş#n
+evliya#n
+melek#n
+acil talep#n
+çekicilik#n
+cazibe#n
+alım#n
+alımlılık#n
+albeni#n
+alkışlamak#v
+alkış#n
+tayin etmek#v
+atamak#v
+değer vermek#v
+zevk#n
+kavramak#v
+anlamak#v
+başlamak#v
+yaklaşmak#v
+gelmek#v
+elverişli#a
+uygun#a
+münasip#a
+tasvip#n
+tasvip etmek#v
+uygun bulmak#v
+yetenek#n
+kabiliyet#n
+aristokrat#n
+soylu#n
+asil#n
+sanat#n
+sanat eseri#n
+görsel malzeme#n
+atfetmek#v
+isnat etmek#v
+rüya#n
+hayal#n
+iddia#n
+artı#n
+asistan#n
+yardımcı#n
+hizmet etmek#v
+eküri#n
+kanka#n
+kanki#n
+ortak#n
+ilişkilendirmek#v
+ilişkilendirme#n
+dernek#n
+cemiyet#n
+ilişkilendirmek#n
+bağlamak#n
+güven#n
+kendinden emin olma#n
+kendine güven#n
+özgüven#n
+güvence#n
+teminat#n
+kontrol etmek#v
+bakmak#v
+taahhüt etmek#v
+söz vermek#v
+ulaşma#n
+kavuşma#n
+erme#n
+ulaşmak#v
+varmak#v
+hazır bulunma#n
+katılım#n
+dikkatli#a
+özenli#a
+çekici#a
+güzel#a
+çekmek#v
+çekici gelmek#v
+çekici olmak#v
+önemli#a
+mühim#a
+büyük#a
+daire#n
+genel müdürlük#n
+yetkililer#n
+yetkili merciler#n
+uzman#n
+mütehassıs#n
+kompetan#n
+yetki#n
+salahiyet#n
+selahiyet#n
+mezuniyet#n
+otorite#n
+ödül#n
+mükafat#n
+sunmak#v
+farkında#a
+bilincinde#a
+ayırdında#a
+bilinç#n
+omurga#n
+belkemiği#n
+destek#n
+arkasında olmak#v
+geri geri gitmek#v
+geri geri götürmek#v
+vaftiz#n
+vaftiz etmek#v
+vaftiz ettirmek#v
+pazarlık etmek#v
+pazarlık yapmak#v
+temel#a
+asli#a
+bazik#a
+deniz feneri#n
+güzelleştirmek#v
+güzellik#n
+arkadaş olmak#v
+kazanç sağlamak#v
+kazanç elde etmek#v
+iyilik#n
+iyiliksever#a
+iyi#a
+mutluluktan uçma#n
+büyük mutluluk#n
+çiçek açmak#v
+çiçeklenmek#v
+prim#n
+cesaret#n
+korkusuzluk#n
+yüreklilik#n
+parlak#a
+gelecek vaadeden#a
+gelecek vaad eden#a
+gelecek vaat eden#a
+güneşli#a
+parlaklık#n
+ihtişam#n
+görkem#n
+haşmet#n
+deha#n
+muhteşem#a
+kardeşlik#n
+sendika#n
+işçi sendikası#n
+camia#n
+yoklama yapmak#v
+tahmin etmek#v
+hitap etmek#v
+demek#v
+nitelendirmek#v
+adlandırmak#v
+deklare etmek#v
+deklarasyon yapmak#v
+isim vermek#v
+ad vermek#v
+tesmiye etmek#v
+sakin#a
+sükunet#n
+sakinlik#n
+dinginlik#n
+sakinleşmek#v
+sakinleştirmek#v
+dinginleştirmek#v
+himaye#n
+vesayet#n
+okşamak#v
+merasim#n
+tören#n
+kutlama#n
+ün#n
+şöhret#n
+şan#n
+nam#n
+dahi#n
+karizma#n
+hayır#n
+uğur#n
+büyülemek#v
+cesaret vermek#v
+cesaretlendirmek#v
+neşelendirmek#v
+şenlendirmek#v
+keyiflendirmek#v
+neşelenmek#v
+şenlenmek#v
+keyiflenmek#v
+kafadar#n
+kibarlık#n
+incelik#n
+nezaket#n
+medeniyet#n
+uygarlık#n
+aydınlatmak#v
+açıklığa kavuşturmak#v
+açıklamak#v
+temiz#a
+temizlik#n
+temizlenmek#v
+paklanmak#v
+ayıklamak#v
+temizlemek#v
+temizlik yapmak#v
+arıtmak#v
+netleştirmek#v
+açmak#v
+kazanmak#v
+boğazını temizlemek#v
+berraklaştırmak#v
+samimiyet#n
+yumruk#n
+yaş grubu#n
+birlikte çalışma#n
+meslektaş#n
+rahat#a
+rahatlama#n
+teselli kaynağı#n
+rahat#n
+konfor#n
+rahatlamak#v
+teselli etmek#v
+komik#a
+komedyen#n
+başlangıç#n
+başlama#n
+komisyon#n
+delegasyon#n
+misyon#n
+görevlendirme#n
+vazifelendirme#n
+ödevlendirme#n
+memur etme#n
+görev#n
+komite#n
+encümen#n
+taahhüt#n
+ferah#a
+standart#a
+normal#a
+olağan#a
+ortak#a
+müşterek#a
+toplu#a
+yeşil alan#n
+park#n
+bahçe#n
+komün#n
+taşımak#v
+duyurmak#v
+iletmek#v
+bildirmek#v
+ahali#n
+topluluk#n
+cemaat#n
+meslek grubu#n
+arkadaşlık#n
+dostluk#n
+ekip#n
+kumpanya#n
+trup#n
+eş dost#n
+arkadaşlar#n
+mürettebat#n
+bölük#n
+ziyaretçi#n
+müşfik#a
+şefkatli#a
+şefkat#n
+merhamet#n
+acıma#n
+düzeltmek#v
+telafi etmek#v
+tazmin etmek#v
+karşılık#n
+tamamlamak#v
+bitirmek#v
+sonuçlandırmak#v
+teslim olma#n
+uygunluk#n
+kapsamak#v
+içine almak#v
+hissetmek#v
+algılamak#v
+taviz#n
+anlaşmak#v
+anlaşmaya varmak#v
+uzlaşmak#v
+mutabakata varmak#v
+mutabakat sağlamak#v
+aynı fikirde olmak#v
+federasyon#n
+sırdaş#n
+emin#a
+emanet etmek#v
+sır vermek#v
+tebrik etmek#v
+toplanmak#v
+bağlantı#n
+birleştirmek#v
+bağlamak#v
+fatih#n
+fethetmek#v
+fetih#n
+konsensüs#n
+fikir birliği#n
+rıza#n
+dikkate alınması gereken husus#n
+dikkate alınması gereken konu#n
+dikkate alınması gereken nokta#n
+düşünceli olma#n
+düşüncelilik#n
+değerlendirmek#v
+düşünmek#v
+tartmak#v
+inanmak#v
+kani olmak#v
+sanmak#v
+zannetmek#v
+görmek#v
+kıvam#n
+başvurma#n
+danışma#n
+müracaat#n
+fikrini almak#v
+danışmak#v
+istişare etmek#v
+başvurmak#v
+müracaat etmek#v
+temas#n
+değme#n
+dokunma#n
+dokunuş#n
+erişmek#v
+dokunmak#v
+temas etmek#v
+süreklilik#n
+katkıda bulunmak#v
+katkı#n
+bağış#n
+kanaat#n
+ikna etmek#v
+işbirliği#n
+kooperatif#n
+koordinasyon#n
+eşgüdüm#n
+eş güdüm#n
+düzeltme#n
+tashih#n
+konsey#n
+danışmanlık#n
+kılavuzluk#n
+yol gösterme#n
+tavsiyede bulunmak#v
+akıl vermek#v
+danışmanlık yapmak#v
+samimi#a
+yaratmak#v
+oluşturmak#v
+teşkil etmek#v
+üretmek#v
+imal etmek#v
+yaratıcı#a
+yaratıcılık#n
+sertifika#n
+belge#n
+kredi#n
+vadeli ödeme#n
+kredili ödeme#n
+alacak kaydetmek#v
+alacak yazmak#v
+kampanya#n
+haçlı#n
+reformcu#n
+değişimci#n
+yenilikçi#n
+değişim yanlısı#n
+reform yanlısı#n
+yetiştirmek#v
+ekme#n
+ekim#n
+ilaç#n
+deva#n
+sağaltmak#v
+dans#n
+raks#n
+dans etmek#v
+raks etmek#v
+cüret etmek#v
+cesaret etmek#v
+göze almak#v
+sabah olmak#v
+hava aydınlanmak#v
+gün doğmak#v
+el#n
+bir sürü#n
+canım#n
+çözmek#v
+şifresini çözmek#v
+deşifre etmek#v
+dekore etme#n
+madalya#n
+ziynet#n
+dekoratif#a
+dekoratif amaçlı#a
+kendini adamak#v
+koruyucu#n
+savunmak#v
+savunmada olmak#v
+mücadele etmek#v
+karşı koymak#v
+direnmek#v
+temsil etmek#v
+avukatlığını yapmak#v
+savunma kuvvetleri#n
+savunma güçleri#n
+müdafaa kuvvetleri#n
+müdafaa güçleri#n
+davalı taraf#n
+savunma tarafı#n
+savunma#n
+müdafaa#n
+narin#a
+ince#a
+zarif#a
+sevinç#n
+neşe#n
+zevk vermek#v
+güvenilir#a
+hak etmek#v
+haketmek#v
+mevki#n
+makam#n
+feraset#n
+ayrım#n
+fark#n
+önde gelen#a
+tanımlamak#v
+ilahi#a
+tanrısal#a
+tanrı#n
+ilah#n
+kutsal varlık#n
+tanrıça#n
+tahakküm#n
+hakimiyet#n
+dinamik#a
+ciddiyet#n
+ciddilik#n
+ağırbaşlılık#n
+ağır başlılık#n
+vakar#n
+dinlenme#n
+istirahat#n
+kolaylık#n
+kolay#a
+basit#a
+eğitim#n
+öğrenim#n
+tahsil#n
+etkili#a
+etkin#a
+etkin olma#n
+etki#n
+etkinlik#n
+kuvvet#n
+güç#n
+verim#n
+randıman#n
+zarafet#n
+benimsemek#v
+sarılmak#v
+kucaklamak#v
+yüksek#a
+empati#n
+yetkilendirme#n
+imkan vermek#v
+sağlamak#v
+temin etmek#v
+ümit vermek#v
+umut vermek#v
+teşvik etmek#v
+enerjik#a
+canlandırmak#v
+meşgul#a
+yararlanmak#v
+faydalanmak#v
+zevk almak#v
+keyif almak#v
+zenginleştirmek#v
+grup#n
+barındırmak#v
+heves#n
+heyecan#n
+coşku#n
+hayal etmek#v
+tahayyül etmek#v
+adil#a
+ihtiyaç#n
+gereksinim#n
+kurmak#v
+tesis etmek#v
+saygı#n
+hürmet#n
+ihtiram#n
+ahlak#n
+etik#n
+etiket#n
+teşrifat#n
+ebedi#a
+sonsuz#a
+yüceltmek#v
+övmek#v
+methetmek#v
+sena etmek#v
+çaba#n
+gayret#n
+egzotik#a
+tecrübe#n
+deneyim#n
+olağandışı#a
+olağanüstü#a
+fevkalade#a
+çoşku#n
+coşkulu#a
+sevinçten uçmak#v
+bayram etmek#v
+makul#a
+fuar#n
+sadık#a
+inanç#n
+din#n
+itikat#n
+iman#n
+ünlü#a
+meşhur#a
+tanınmış#a
+fantazi#n
+olumlu#a
+pozitif#a
+favori#a
+korkusuz#a
+herif#n
+adam#n
+tip#n
+doğurgan#a
+festival#n
+kararlılık#n
+yağlamak#v
+pohpohlamak#v
+esnek#a
+affetmek#v
+bağışlamak#v
+güçlendirmek#v
+tahkim etmek#v
+bedava#a
+ücretsiz#a
+parasız#a
+özgür#a
+serbest#a
+özgürlük#n
+hürriyet#n
+serbesti#n
+muafiyet#n
+masuniyet#n
+çıkarmak#v
+çıkartmak#v
+kurtarmak#v
+serbest bırakmak#v
+özgürleştirmek#v
+muaf tutmak#v
+muaf kılmak#v
+muafiyet sağlamak#v
+muafiyet vermek#v
+yeni#a
+arkadaş#n
+dost#n
+omuzdaşlık#n
+ünsiyet#n
+karşılamak#v
+tatmin etmek#v
+cevap vermek#v
+cümbüş#n
+kar#n
+elde etmek#v
+kilo almak#v
+şişmanlamak#v
+doğurmak#v
+eli açıklık#n
+cömertlik#n
+semahat#n
+mürüvvet#n
+cömert#a
+eli açık#a
+selek#a
+semih#a
+bonkör#a
+hediye#n
+beslemek#v
+yedirmek#v
+~tmak#v
+düzenlemek#v
+organize etmek#v
+teslim etmek#v
+hediye etmek#v
+armağan etmek#v
+yol vermek#v
+parlamak#v
+hasat etmek#v
+toplamak#v
+pırıltı#n
+parıltı#n
+altın#n
+altın para#n
+saygıdeğer#a
+saygın#a
+lütuf#n
+inayet#n
+ihsan#n
+müteşekkir#a
+şükran#n
+minnettarlık#n
+minnet#n
+selamlaşmak#v
+selamlamak#v
+selam vermek#v
+selam göndermek#v
+eğitmek#v
+kendine bakmak#v
+garanti#n
+yönlendirmek#v
+götürmek#v
+mutluluk#n
+saadet#n
+ongunluk#n
+kut#n
+mut#n
+mutlu#a
+mesut#a
+uyuşturmak#v
+ahenk#n
+armoni#n
+liman#n
+sağlık#n
+sağlıklı#a
+cennet#n
+servis yapmak#v
+kahramanca#a
+kahraman#n
+memleket#n
+kendi ülkesi#n
+iç piyasa#n
+ev#n
+ev halkı#n
+hane halkı#n
+hanehalkı#n
+mesken#n
+konut#n
+ikametgah#n
+huzurevi#n
+bakımevi#n
+dürüst#a
+açık#a
+balayı#n
+onur#n
+saygı göstermek#v
+saymak#v
+hürmet etmek#v
+umut#n
+ümit#n
+ümitli olmak#v
+umutlu olmak#v
+misafirperver#a
+insanlık#n
+insanoğlu#n
+bütün dünya#n
+insan#n
+kişi#n
+şahıs#n
+birey#n
+kimse#n
+fert#n
+alçak gönüllü#a
+alçakgönüllü#a
+mütevazı#a
+mütevazi#a
+alçakgönüllülük#n
+alçak gönüllülük#n
+vücut sıvısı#n
+hijyen#n
+idealizm#n
+ideal#n
+put#n
+tahayyül#n
+tarafsızlık#n
+yansızlık#n
+bitaraflık#n
+önem#n
+ehemmiyet#n
+anlamlı#a
+ehemmiyetli#a
+etkilemek#v
+tesir etmek#v
+iyileştirme#n
+geliştirme#n
+ıslah#n
+iyileşme#n
+bağımsızlık#n
+istiklal#n
+bağımsız#a
+hür#a
+kişilik#n
+kimlik#n
+bilgi vermek#v
+haberdar etmek#v
+bilgilendirmek#v
+masumiyet#n
+masumluk#n
+ilham#n
+nefes almak#v
+içgüdüsel#a
+bütünlük#n
+entelektüel#n
+aydın#n
+münevver#n
+anlık#n
+müdrike#n
+entelekt#n
+akıl#n
+zihin#n
+idrak#n
+entelektüel#a
+entellektüel#a
+istihbarat faaliyeti#n
+haber#n
+zeka#n
+zeki#a
+akıllı#a
+ilginç#a
+ilgi çekici#a
+enteresan#a
+faiz#n
+ilginçlik#n
+pay#n
+hisse#n
+hak#n
+menfaat#n
+hobi#n
+merak#n
+çıkar grubu#n
+ilgisini çekmek#v
+davet#n
+evine çağırmak#v
+evine davet etmek#v
+davet etmek#v
+kaşınmak#v
+fıkra anlatmak#v
+gırgır geçmek#v
+birleşmek#v
+kavuşmak#v
+katılmak#v
+girmek#v
+şaka#n
+latife#n
+adalet#n
+türe#n
+hakim#n
+yargıç#n
+gerekçe#n
+kibar#a
+öpücük#n
+buse#n
+öpme#n
+öpüş#n
+biliş#n
+vukuf#n
+gülüş#n
+gülmek#v
+yasal#a
+kanuni#a
+legal#a
+kanun#n
+yasa#n
+polis#n
+hukuk#n
+tüze#n
+başrol oyuncusu#n
+anterlin#n
+ipucu#n
+öğrenci#n
+öğretmek#v
+çalışmak#v
+öğrenmek#v
+haber almak#v
+belirlemek#v
+tespit etmek#v
+meşruiyet#n
+meşru#a
+liberal#a
+liberalizm#n
+özerklik#n
+otonomi#n
+muhtariyet#n
+hafif#a
+yeğni#a
+ışık#n
+ziya#n
+nur#n
+şavk#n
+aydınlık#n
+ışık kaynağı#n
+çakmak#n
+sempatik#a
+sevimli#a
+sevmek#v
+hoşlanmak#v
+bulmak#v
+çevik#a
+hareketli#a
+hayat sürmek#v
+yaşamak#v
+oturmak#v
+ikamet etmek#v
+hayatta olmak#v
+sağ olmak#v
+varolmak#v
+hayatta kalmak#v
+varlığını sürdürmek#v
+mantık#n
+mantık sistemi#n
+mantık dizgesi#n
+tutku#n
+aşk#n
+sevgili#n
+aşık#n
+yatmak#v
+sevişmek#v
+aşk yapmak#v
+sadakat#n
+şans#n
+talih#n
+baht#n
+felek#n
+kader#n
+kısmet#n
+şehvet#n
+kösnü#n
+lüks#n
+şatafat#n
+sihirli#a
+büyülü#a
+karizmatik#a
+evlilik#n
+evli çift#n
+karı-koca#n
+evlenme#n
+evlenmek#v
+izdivaç etmek#v
+mucizevi#a
+eş#n
+hayat arkadaşı#n
+çiftleşmek#v
+olgunlaşmış#a
+olgun#a
+yaşlanmak#v
+olgunlaşmak#v
+olgunluk#n
+azami düzeye çıkarmak#v
+maksimize etmek#v
+en üst düzeye çıkarmak#v
+ençoklamak#v
+ölçülebilir#a
+ölçülebilen#a
+melodi#n
+ezgi#n
+nağme#n
+tamir etmek#v
+onarmak#v
+bağışlayıcılık#n
+hüner#n
+marifet#n
+liyakat#n
+mutedil#a
+fikir#n
+düşünce#n
+mülahaza#n
+mütalaa#n
+an#n
+mucize#n
+mobilite#n
+itidal#n
+küçük#a
+ufak#a
+ufak çaplı#a
+küçük çaplı#a
+çok önemli#a
+ahlaki#a
+motivasyon#n
+halk#n
+kitle#n
+yığın#n
+sokaktaki adam#n
+onbin#n
+on bin#n
+10000#n
+10.000#n
+doğal#a
+görüşmek#v
+şartlarını belirlemek#v
+müzakere etmek#v
+soyluluk#n
+asalet#n
+asillik#n
+besin#n
+gıda#n
+emzirmek#v
+meme vermek#v
+nesnel#a
+objektif#a
+teklif#n
+öneri#n
+gönüllü olmak#v
+teklif etmek#v
+fırsat#n
+imkan#n
+optimum#a
+optimal#a
+iyimserlik#n
+optimizm#n
+iyimser#a
+optimist#a
+orijinallik#n
+özgünlük#n
+giden#a
+yenmek#v
+galip gelmek#v
+mağlup etmek#v
+pas vermek#v
+meydana gelmek#v
+olmak#v
+yaşanmak#v
+vuku bulmak#v
+zaman geçirmek#v
+bulunmak#v
+sollamak#v
+sabır#n
+sabırlı#a
+müşteri portföyü#n
+müşteriler#n
+müdavim#n
+kazandırmak#v
+getirmek#v
+ödemek#v
+tediye etmek#v
+ödeme yapmak#v
+barış#n
+sulh#n
+mükemmel#a
+kusursuz#a
+mükemmellik#n
+kusursuzluk#n
+olgunlaştırmak#v
+mükemmelleştirmek#v
+parfüm#n
+esans#n
+koku#n
+izin#n
+müsaade#n
+permi#n
+lisans#n
+ruhsat#n
+sebat etmek#v
+zirve#n
+inançlı#a
+mümin#a
+oyuncak#n
+haz#n
+dokunaklı#a
+rafine etmek#v
+cilalamak#v
+parlatmak#v
+nazik#a
+popüler#a
+popülarite#n
+portatif#a
+seyyar#a
+potansiyel#n
+gizilgüç#n
+gizil güç#n
+güçlü#a
+kuvvetli#a
+tesirli#a
+müessir#a
+övgü#n
+kabararak yürümek#v
+emsal#n
+başbakan#n
+başvekil#n
+prestij#n
+kendine saygı#n
+gurur#n
+aslan sürüsü#n
+ilke#n
+kural#n
+prensip#n
+ganimet#n
+vurgun#n
+ihtikar#n
+spekülasyon#n
+net kar#n
+kar etmek#v
+kar elde etmek#v
+çıkıntı#n
+doğru#a
+muhakeme etmek#v
+yargılamak#v
+canlanmak#v
+koruyucu kılıf#n
+zırh#n
+kaplama#n
+koruma#n
+korumak#v
+gururlu#a
+onurlu#a
+şerefli#a
+mağrur#a
+tedarik etmek#v
+saf#a
+masum#a
+bakire#a
+arındırmak#v
+saflaşmak#v
+arınmak#v
+vızıldamak#v
+vızlamak#v
+vınlamak#v
+şartlara uymak#v
+şartları karşılamak#v
+tamlamak#v
+söndürmek#v
+susuzluğunu gidermek#v
+hızlanmak#v
+süratlenmek#v
+ışımak#v
+ışık saçmak#v
+ralli#n
+rasyonel#a
+akılcı#a
+telaşlı telaşlı konuşmak#v
+reel#a
+mantıklı#a
+uzanmak#v
+ihtimam#n
+sakınma#n
+alaka#n
+münasebet#n
+ilinti#n
+taalluk#n
+tamir#n
+tamirat#n
+onarma#n
+onarım#n
+mekan#n
+kurtarma#n
+kurtarış#n
+karara bağlamak#v
+çözümlemek#v
+çözündürmek#v
+karar vermek#v
+yankı yapmak#v
+ses çıkarmak#v
+hatırı sayılır#a
+saygı duymak#v
+ara#n
+teneffüs#n
+geri alma#n
+orijinal haline döndürmek#v
+orijinal haline getirmek#v
+eski haline döndürmek#v
+eski haline getirmek#v
+eve dönüş#n
+yurda dönüş#n
+vergi beyannamesi#n
+beyanname#n
+mukabele#n
+geri dönüş#n
+geri dönme#n
+dönmek#v
+geri dönmek#v
+iade etmek#v
+geri ödemek#v
+geri getirmek#v
+ifşa#n
+açıklama#n
+eğlenmek#v
+canlanma#n
+ayıltmak#v
+ayılmak#v
+kendine gelmek#v
+zengin#a
+doğruluk#n
+dürüstlük#n
+sağ#n
+haklılık#n
+emniyet#n
+prezervatif#n
+kondom#n
+selam#n
+esenleme#n
+aklı başında olma#n
+biriktirmek#v
+bir kenara koymak#v
+alarm#n
+inanca#n
+güvenlik#n
+sansasyonel#a
+duyu#n
+hassas#a
+duyarlı#a
+hassaslık#n
+hassasiyet#n
+duygunluk#n
+duyarlık#n
+duyarlılık#n
+ciddi#a
+paylaşım#n
+paylaşmak#v
+ortaklaşa kullanmak#v
+barınak#n
+sığınak#n
+barınma imkanı sağlamak#v
+kurnazlık#n
+akıllılık#n
+anlam ve önem#n
+mesaj#n
+ifade etmek#v
+anlama gelmek#v
+anlamına gelmek#v
+demek olmak#v
+basitleştirmek#v
+gülümseme#n
+gülümsemek#v
+çözelti#n
+solüsyon#n
+sağlamlık#n
+istikrar#n
+kararlı hale gelmek#v
+dengeye kavuşturmak#v
+stabilize etmek#v
+dengelemek#v
+istikrarlı hale getirmek#v
+dik duruma getirmek#v
+dikmek#v
+ayakta durmak#v
+hammadde#n
+uyarım#n
+stimülasyon#n
+uyaran#n
+düz#a
+imzalamak#v
+imza atmak#v
+abone ücreti#n
+abonelik ücreti#n
+subvansiyon#n
+sübvansiyon#n
+hayata geçirmek#v
+arkasından gelmek#v
+selefi olmak#v
+muvaffakiyet#n
+yetmek#v
+yeterli olmak#v
+müsait olmak#v
+zirve toplantısı#n
+doruk#n
+kaliteli#a
+temel#n
+bakmak#n
+kaide#n
+ayak#n
+taban#n
+duraç#n
+ayaklık#n
+hamil#n
+bindi#n
+doğal seleksiyon#n
+şeker#n
+şekerleme#n
+tatlı#n
+buke#n
+ıtır#n
+rayiha#n
+hız#n
+bayılmak#v
+sembolize etmek#v
+simetri#n
+bakışım#n
+sentez#n
+bireşim#n
+tat#n
+lezzet#n
+tat alma#n
+tatma#n
+teşekkür#n
+teşekkür etmek#v
+titiz#a
+iyi düşünülmüş#a
+ürperti#n
+tolere etme#n
+tolerans gösterme#n
+hoşgörü#n
+dingin#a
+hazine#n
+zafer#n
+tröst#n
+kartel#n
+güvenmek#v
+güvenilirlik#n
+sağlam#a
+bilmek#v
+benzersiz#a
+dik#a
+çalışır durumda#a
+işler durumda#a
+kullanılır durumda#a
+kullanılabilir durumda#a
+faydalı#a
+yararlı#a
+nafi#a
+fayda#n
+yarar#n
+kullanım#n
+kullanmak#v
+istifade etmek#v
+geçerlilik#n
+değer biçmek#v
+fazilet#n
+erdem#n
+hayalci#n
+hayatiyet#n
+canlılık#n
+sıcak#a
+ısıtmak#v
+ısınmak#v
+istekli#a
+bilgelik#n
+sağduyu#n
+aklıselim#n
+tecessüs#n
+ustalık#n
+değer#n
+tutar#n
